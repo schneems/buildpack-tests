@@ -3,5 +3,8 @@
 
 echo "-----> Nothing to do."
 
-echo `which bundle`
+echo `ls /app/vendor/bundle/ruby/1.9.1`
+echo `vendor/bundle/ruby/1.9.1`
+
 exit 1
+
