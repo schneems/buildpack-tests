@@ -3,5 +3,5 @@
 
 echo "-----> Nothing to do."
 
-echo `env`
+echo `which bundle`
 exit 1
