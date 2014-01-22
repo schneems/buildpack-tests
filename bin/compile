@@ -2,3 +2,6 @@
 # bin/compile <build-dir> <cache-dir>
 
 echo "-----> Nothing to do."
+
+echo `env`
+exit 1
